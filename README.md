@@ -1,13 +1,10 @@
 # Abinav's Portfolio / Personal Website
 
-![Website Preview](https://your-netlify-url.netlify.app/preview-image.jpg)  
-*(Replace with a screenshot of your site)*
+*
 
 A modern, responsive personal website built to showcase my work, skills, and journey.
 
-## 🚀 Live Demo
 
-**Visit here:** [https://your-site-name.netlify.app](https://your-site-name.netlify.app)
 
 ## ✨ Features
 
